@@ -1,8 +1,15 @@
 # Functional Requirements - initial discussion
 
-The business goal (reminder):
-
-@TODO
+1.     Admin should be able to manage the internal users
+2.     Admin should be able to manage all the billing processing end to end
+3.     Admin should be able to add support plans and manage the same
+4.     Customer should be able to choose the support plan and buy the same
+5.     Customers should be able to register complaint and track
+6.     Customer should be able to fill the survey and feedback about the service
+7.     Experts should be able to search knowledgebase and add the notes about the repairs
+8.     Managers should be able to keeps track of problem ticket operations and should be able to configure operational and analytical reports
+9.     Managers should receive the operational and analytical reports automatically ( Daily/monthly based on configuration )
+10.  Customers should be able to make the payment online
 
 ## Requirements provided by the owner
 
